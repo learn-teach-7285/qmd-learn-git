@@ -1,0 +1,13 @@
+# Local session configuration
+.cfgs/session.json
+
+/.obsidian/workspace.json
+/.temp/
+
+# .claude/rules và .claude/skills là JUNCTION trỏ vào .agents/rules và
+# .agents/skills — cùng một tệp trên đĩa, nhìn qua hai đường dẫn. Git đi xuyên
+# junction nên trước đây lưu mỗi tệp HAI lần: 66 trên 207 tệp theo dõi là bản
+# trùng, và sửa một skill hiện thành hai tệp modified. Nguồn sự thật là .agents/;
+# junction vẫn còn trên đĩa để Claude Code đọc bình thường.
+/.claude/rules/
+/.claude/skills/

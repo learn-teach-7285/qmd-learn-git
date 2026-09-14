@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "userIgnoreFilters": [
+    "\\.git/"
+  ],
+  "autoConvertHtml": true
+}

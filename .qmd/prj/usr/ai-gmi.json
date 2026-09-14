@@ -1,0 +1,204 @@
+{
+  "atv": {
+    "context": "Kmtr4fafk",
+    "scope": "Kmtr4fanw",
+    "scopeMode": "approve",
+    "asColor": "yellow",
+    "hoverMode": 0,
+    "apprMode": 0,
+    "autoSaveHoverDefault": true,
+    "autoSaveVisibilityDefault": true,
+    "hideComments": false,
+    "hideNotes": false,
+    "hideTooltips": false,
+    "hiddenTypes": {
+      "note": true,
+      "comment": true,
+      "tooltip": true
+    },
+    "debugMode": false,
+    "featureMode": true
+  },
+  "cts": [
+    {
+      "c": "Kmtr4fafk",
+      "n": "Trao đổi",
+      "d": "Thảo luận, comment, trao đổi ý tưởng giữa User và AI/Team",
+      "k": "TRAO_DOI",
+      "p": 1,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "c": "Kmtr4faic",
+      "n": "Hành động",
+      "d": "Thực thi nhiệm vụ, giao việc, note checklist & action items",
+      "k": "HANH_DONG",
+      "p": 2,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "c": "Kmtr4fal4",
+      "n": "Kiểm tra",
+      "d": "So khớp đặc tả với Code/Product, phê duyệt tuân thủ (💎 K...)",
+      "k": "KIEM_TRA",
+      "p": 3,
+      "e": true,
+      "a": "*"
+    }
+  ],
+  "csm": [
+    {
+      "c": "Kmtr4fafk",
+      "s": "Kmtr4fanw"
+    },
+    {
+      "c": "*",
+      "s": "*"
+    }
+  ],
+  "u": "ai-gmi",
+  "n": "GEMINI",
+  "av": "👤",
+  "prf": [
+    {
+      "f": "Kprfspec01",
+      "n": "💎 Hồ sơ đặc tả",
+      "d": "Lăng kính chốt thiết kế",
+      "p": 1,
+      "e": true,
+      "st": {
+        "?": "❓",
+        "y": "🌿",
+        "!": "☄️",
+        "n": "🚫"
+      },
+      "gl": [
+        {
+          "r": 0,
+          "y": "❓"
+        },
+        {
+          "r": 1,
+          "y": "🌘"
+        },
+        {
+          "r": 50,
+          "y": "🌗"
+        },
+        {
+          "r": 100,
+          "y": "🌿"
+        }
+      ]
+    }
+  ],
+  "mdly": [
+    {
+      "s": "Kmtr4fanw",
+      "n": "🪶 Tiêu đề",
+      "d": "Khung cấu trúc tiêu đề các cấp trong tài liệu đặc tả (#, ##, ###)",
+      "p": 1,
+      "e": true,
+      "a": "*",
+      "hiddenTypes": {
+        "note": false,
+        "comment": false
+      }
+    },
+    {
+      "s": "Kmtr4faqo",
+      "n": "🪶 Khung nội dung",
+      "d": "Từ khóa nghiệp vụ và mã định danh quy tắc (💎 K...)",
+      "p": 2,
+      "e": true,
+      "a": "*",
+      "hiddenTypes": {
+        "note": false
+      }
+    },
+    {
+      "s": "Kmtr4fatg",
+      "n": "🪶 Nội dung chính",
+      "d": "Nội dung giá trị diễn giải và mã phiên bản (💎 V...)",
+      "p": 3,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kmtr4faw8",
+      "n": "🪶 Ý hỗ trợ",
+      "d": "Khối văn bản, ví dụ minh họa và phụ chú bổ trợ (Paragraphs/Blocks)",
+      "p": 4,
+      "e": true,
+      "a": "*"
+    }
+  ],
+  "f2ly": [
+    {
+      "s": "Kmastr001",
+      "n": "🗿 Master",
+      "d": "Nút định khung cả nhánh",
+      "p": 1,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kindex002",
+      "n": "🧭 Index",
+      "d": "Nút điều hướng",
+      "p": 2,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kfmain003",
+      "n": "🪶 File chính",
+      "d": "Nút mang nội dung cốt lõi",
+      "p": 3,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kreadm005",
+      "n": "📖 Readme",
+      "d": "Tài liệu tổng quan giới thiệu",
+      "p": 3,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kfsub0004",
+      "n": "🪶 File phụ",
+      "d": "Nút bổ trợ, tham chiếu, phụ lục",
+      "p": 4,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kspec0006",
+      "n": "💎 Spec",
+      "d": "Tài liệu quy chuẩn đặc tả",
+      "p": 4,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Ksoln0007",
+      "n": "🏗️ Solution",
+      "d": "Tài liệu giải pháp kỹ thuật",
+      "p": 5,
+      "e": true,
+      "a": "*"
+    },
+    {
+      "s": "Kdraft008",
+      "n": "📝 Draft",
+      "d": "Bản nháp, ghi chép đang soạn",
+      "p": 8,
+      "e": true,
+      "a": "*"
+    }
+  ]
+}

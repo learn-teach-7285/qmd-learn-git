@@ -1,0 +1,10 @@
+{
+  "id": "qmd",
+  "name": "QMD Runtime",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Động cơ phê duyệt QMD: hệ định vị điểm duyệt APS (Vai Trò / Giai Đoạn / Tầng Nghĩa) và hàm qc() cho DataviewJS.",
+  "author": "QMD",
+  "authorUrl": "https://github.com/qmd7285",
+  "isDesktopOnly": false
+}
